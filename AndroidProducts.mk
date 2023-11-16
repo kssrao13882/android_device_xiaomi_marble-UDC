@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_marble.mk
+    $(LOCAL_DIR)/octavi_marble.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_marble-eng \
-    superior_marble-userdebug \
-    superior_marble-user
+    octavi_marble-eng \
+    octavi_marble-userdebug \
+    octavi_marble-user
